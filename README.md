@@ -1,4 +1,5 @@
 # raul_and_i
 opcity project
 
-brrt
+read this
+https://guides.github.com/activities/hello-world/
